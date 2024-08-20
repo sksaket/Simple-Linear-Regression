@@ -4,4 +4,5 @@ Q1) Delivery_time -> Predict delivery time using sorting time. Build a simple li
 EDA and Data Visualization, Feature Engineering, Correlation Analysis, Model Building, Model Testing and Model Predictions using simple linear regression.
 
 
-- recent commit ver 1.0
+- recent change ver 1.0
+- recent new change ver 2.0
